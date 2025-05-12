@@ -53,10 +53,20 @@ Project objective
 Dataset description
 
 Insights and dashboard demo (screenshots or GIF)
+![Screenshot (32)](https://github.com/user-attachments/assets/896ea48f-7bfe-4ece-9a6a-1d1c121817b7)
 
 
-How to run the app
-
-Dependencies (requirements.txt)
 
 
+How to use
+Clone the repository: https://github.com/Archanabhorga/AUTO-NOVA-SALES-DASHBOARDS-/edit/main/README.md
+
+Explore and interact with the dashboard using slicers and filters.
+
+Trend lines for monthly and daily sales
+
+KPI cards for quick business checks
+
+Interactive charts and graphs
+
+Responsive slicers and tooltips for detailed insights
